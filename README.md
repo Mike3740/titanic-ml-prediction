@@ -47,6 +47,8 @@ Survivors_Answer.csv — Final predictions
 
 requirements.txt — Dependencies
 
-  How to Run 
+ ** How to Run **
+  
 pip install -r requirements.txt
+
 python Titanic_Predictions.py
