@@ -1,4 +1,4 @@
-** Titanic Survival Prediction**
+ **Titanic Survival Prediction**
 
 Machine Learning | Python | SQL | scikit-learn
 
@@ -47,7 +47,7 @@ Survivors_Answer.csv — Final predictions
 
 requirements.txt — Dependencies
 
- ** How to Run **
+ **How to Run**
   
 pip install -r requirements.txt
 
