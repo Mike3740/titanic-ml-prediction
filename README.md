@@ -1,13 +1,13 @@
- Titanic Survival Prediction
+** Titanic Survival Prediction**
 
 Machine Learning | Python | SQL | scikit-learn
 
- Overview
+ **Overview**
 
 This project uses Kaggle’s Titanic dataset to predict passenger survival using Python and MySQL.
 The workflow includes data preprocessing, feature engineering, model training, and automated SQL output storage.
 
- Dataset
+ **Dataset**
 
 Kaggle Titanic Dataset
 
@@ -15,7 +15,7 @@ Kaggle Titanic Dataset
 
 418 test records
 
- Technologies Used
+ **Technologies Used**
 
 Python (Pandas, NumPy, scikit-learn)
 
@@ -25,7 +25,7 @@ SQLAlchemy
 
 Logistic Regression
 
- Model
+ **Model**
 
 Cleaned and normalized dataset
 
@@ -35,7 +35,7 @@ Trained and validated Logistic Regression
 
 Achieved 75% accuracy
 
- Files Included
+ **Files Included**
 
 Titanic_Predictions.py — Full training and prediction script
 
